@@ -1,4 +1,6 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://stellular-toffee-754c59.netlify.app'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+title = 'Court of Gloomvale'
+theme = "Gloomvale"
+paginate = "5"
+enableEmoji ="true"
